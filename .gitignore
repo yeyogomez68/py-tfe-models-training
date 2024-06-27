@@ -1,0 +1,15 @@
+
+vgg16.h5
+resnet50.h5
+resnet152V2.keras
+densenet121.h5
+densenet121.keras
+sequential.keras
+vgg16.keras
+models/DenseNet121.tflite
+models/EfficientNetB7.keras
+models/EfficientNetB7.tflite
+models/ResNet152V2.tflite
+models/VGG16.tflite
+models/arq_densenet.keras
+models/arq_densenet.tflite
